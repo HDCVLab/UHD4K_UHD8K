@@ -1,7 +1,7 @@
 # Benchmarking-Ultra-High-Definition-Image-Super-resolution (ICCV2021)
 
 
-__4K Resolution Datasets__
+__UHDSR4K: 4K Resolution Datasets__
 
 
 ```
@@ -14,7 +14,7 @@ __4K Resolution Datasets__
 4K-X16: https://pan.baidu.com/s/1ORFg_UOVXoJ9KobiS60iOQ (4j8e)
 ```
 
-__8K Resolution Datasets__
+__UHDSR8K: 8K Resolution Datasets__
 
 
 ```
