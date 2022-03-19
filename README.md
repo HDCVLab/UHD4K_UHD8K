@@ -14,7 +14,7 @@ __UHDSR4K: 4K Resolution Datasets__
 4K-X16: https://pan.baidu.com/s/1ORFg_UOVXoJ9KobiS60iOQ (4j8e)
 ```
 
-__UHDSR8K: 8K Resolution Datasets__
+__UHDSR8K: 8K Resolution Datasets (Each 8K image is cutted into four 4K parts. You can concatenate to generate original 8K versions.)__
 
 
 ```
