@@ -1,7 +1,14 @@
 # Benchmarking-Ultra-High-Definition-Image-Super-resolution (ICCV2021)
 
 
-__UHDSR4K: 4K Resolution Datasets__
+
+### License
+
+The MC-Blur dataset is released under CC BY-NC-ND license.
+
+
+
+__UHD4K-SR: 4K Resolution Datasets__
 
 
 ```
@@ -14,7 +21,7 @@ __UHDSR4K: 4K Resolution Datasets__
 4K-X16: https://pan.baidu.com/s/1ORFg_UOVXoJ9KobiS60iOQ (4j8e)
 ```
 
-__UHDSR8K: 8K Resolution Datasets (Each 8K image is cutted into four 4K parts. You can concatenate to generate original 8K versions.)__
+__UHD8K-SR: 8K Resolution Datasets (Each 8K image is cutted into four 4K parts. You can concatenate to generate original 8K versions.)__
 
 
 ```
