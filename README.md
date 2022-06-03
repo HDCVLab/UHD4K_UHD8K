@@ -35,7 +35,7 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 ```
 
 
-## 4K and 8K Resolution Datasets
+## UHD4K-SR and UHD8K-SR Datasets
 
 
 ```
