@@ -4,7 +4,7 @@
 
 ### License
 
-The MC-Blur dataset is released under CC BY-NC-ND license.
+The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 
 
 
