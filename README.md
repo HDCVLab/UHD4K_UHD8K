@@ -1,4 +1,4 @@
-# Benchmarking-Ultra-High-Definition-Image-Super-resolution (ICCV2021)
+# Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)
 
 
 
