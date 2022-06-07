@@ -16,7 +16,7 @@ Google Drive: https://drive.google.com/drive/folders/1H5WeF5I6_mgFpSyFpR98iuwMJy
 Baidu Cloud:
 ```
 Related papers: 
-- [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
+[Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 
 
 ## UHD8K(SR): 8K Resolution Datasets
@@ -27,7 +27,7 @@ Google Drive: https://drive.google.com/drive/folders/1eos4m-oswm5XECe_N0-Ca8EmmN
 Baidu Cloud:
 ```
 Related papers: 
-- [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
+[Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 
 
 
