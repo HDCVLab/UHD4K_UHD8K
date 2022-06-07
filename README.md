@@ -14,8 +14,9 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 ```
 Google Drive: https://drive.google.com/drive/folders/1H5WeF5I6_mgFpSyFpR98iuwMJy4s5ylR?usp=sharing
 Baidu Cloud:
+Related papers: 
+- [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 ```
-Related papers: [Benchmarking Ultra-High-Definition Image Super-resolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
 
 ## UHD8K(SR): 8K Resolution Datasets
 
@@ -23,8 +24,10 @@ Related papers: [Benchmarking Ultra-High-Definition Image Super-resolution](http
 ```
 Google Drive: https://drive.google.com/drive/folders/1eos4m-oswm5XECe_N0-Ca8EmmNM_33UV?usp=sharing
 Baidu Cloud:
+Related papers: 
+- [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 ```
-Related papers: [Benchmarking Ultra-High-Definition Image Super-resolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
+
 
 
 ****
