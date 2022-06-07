@@ -8,7 +8,7 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 
 ****
 
-## UHD4K-SR: 4K Resolution Datasets
+## UHD4K(SR): 4K Resolution Datasets
 
 
 ```
@@ -16,7 +16,7 @@ Google Drive: https://drive.google.com/drive/folders/1H5WeF5I6_mgFpSyFpR98iuwMJy
 Baidu Cloud:
 ```
 
-## UHD8K-SR: 8K Resolution Datasets
+## UHD8K(SR): 8K Resolution Datasets
 
 
 ```
