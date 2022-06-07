@@ -34,7 +34,7 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 ****
 
 ## Citation
-If you think this work is useful for your research, please cite the following paper.
+If you think the UHD4K and UHD8K datasets are useful for your research, please cite the following paper.
 
 ```
 @inproceedings{zhang2021benchmarking,
