@@ -14,6 +14,7 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 ```
 Google Drive: https://drive.google.com/drive/folders/1H5WeF5I6_mgFpSyFpR98iuwMJy4s5ylR?usp=sharing
 Baidu Cloud:
+Related papers: [Benchmarking Ultra-High-Definition Image Super-resolution]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 ```
 
 ## UHD8K(SR): 8K Resolution Datasets
@@ -22,6 +23,7 @@ Baidu Cloud:
 ```
 Google Drive: https://drive.google.com/drive/folders/1eos4m-oswm5XECe_N0-Ca8EmmNM_33UV?usp=sharing
 Baidu Cloud:
+Related papers: [Benchmarking Ultra-High-Definition Image Super-resolution]([https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing](https://faculty.ucmerced.edu/mhyang/papers/iccv2021_ultra_sr.pdf))
 ```
 
 
