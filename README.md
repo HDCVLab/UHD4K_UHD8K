@@ -9,7 +9,7 @@ The UHD4K and UHD8K datasets are released under CC BY-NC-ND license.
 
 ## Our propsoed UHD4K and UHD8K Datasets
 
-We construct two large-scale Ultra-High-Definition datasets (i.e., UHD4K and UHD8K) for low-level image enhancement. Each of the datasets provides different settings for image super resolution (SR), image deraining (Derain), low light image enhancement (LOL), and image reflection removal (IRR).
+We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD4K and UHD8K) for low-level image enhancement. Each of the datasets provides different settings for image super resolution (SR), image deraining (Derain), low light image enhancement (LOL), and image reflection removal (IRR).
 
 ****
 
