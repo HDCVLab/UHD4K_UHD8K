@@ -19,7 +19,7 @@ We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD
 - [Google Drive](https://drive.google.com/drive/folders/1H5WeF5I6_mgFpSyFpR98iuwMJy4s5ylR?usp=sharing)
 - [Baidu Cloud]()
 
-#### Related papers:
+#### Citation:
 - [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
 
 
@@ -30,7 +30,7 @@ We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD
 - [Google Drive](https://drive.google.com/drive/folders/1eos4m-oswm5XECe_N0-Ca8EmmNM_33UV?usp=sharing)
 - [Baidu Cloud]()
 
-#### Related papers:
+#### Citation:
 - [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
 
 
@@ -42,7 +42,7 @@ We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD
 - [Google Drive]()
 - [Baidu Cloud]()
 
-#### Related papers:
+#### Citation:
 - [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
 
 
