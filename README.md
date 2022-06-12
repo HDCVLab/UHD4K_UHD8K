@@ -9,7 +9,7 @@ The UHD4K and UHD8K datasets are released under [CC BY-NC-ND](https://creativeco
 
 ## Our propsoed UHD4K and UHD8K Datasets
 
-We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD4K and UHD8K) for low-level image enhancement. Each of the datasets provides different settings for image super resolution (SR), image deraining (Derain), low light image enhancement (LOL), and image reflection removal (IRR).
+We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD4K and UHD8K) for low-level image enhancement. Each of the datasets provides different settings for image super resolution (SR), image deraining (Derain), low light image enhancement (LLIE), and image reflection removal (IRR).
 
 ****
 
@@ -61,7 +61,7 @@ We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD
 
 ****
 
-## UHD4K (LOL): Low Light Image Enhancement
+## UHD4K (LLIE): Low Light Image Enhancement
 
 #### Download
 - [Google Drive]()
@@ -71,7 +71,7 @@ We construct two large-scale 4K and 8K Ultra-High-Definition datasets (i.e., UHD
 - [Benchmarking Ultra-High-Definition Image Super-resolution (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)
 
 
-## UHD8K (LOL): Low Light Image Enhancement
+## UHD8K (LLIE): Low Light Image Enhancement
 
 
 #### Download
